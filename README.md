@@ -7,4 +7,9 @@ Na Figura 1, é apresentado um modelo simplificado de um "embaralhador" de áudi
 1. Determine o espectro do sinal "embaralhado" y(t).
 2. Projete um sistema (diagrama de blocos) que permita recuperar m(t) a partir de y(t).
 
+Figura 1, 2 e 3:
+
+![Sistema](https://github.com/capsmilani/PDC/blob/main/sistema.png?raw=true)
+
+
 
